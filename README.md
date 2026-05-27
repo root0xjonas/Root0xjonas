@@ -57,3 +57,6 @@
 
 - 📧 jonasferreira123.adm@gmail.com
 - 🐙 github.com/root0xjonas
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=root0xjonas&theme=radical&show_icons=true)
