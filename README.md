@@ -1,4 +1,4 @@
-![banner](banner.svg)
+![banner](https://raw.githubusercontent.com/root0xjonas/root0xjonas/main/banner.svg)
 
 ---
 
