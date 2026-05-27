@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140">
-<rect width="800" height="140" fill="#0d1117"/>
-<text x="10" y="25" font-family="monospace" font-size="14" fill="#ff0000"> ██████╗ ██╗  ██╗     ██╗ ██████╗ ███╗   ██╗ █████╗ ███████╗</text>
-<text x="10" y="43" font-family="monospace" font-size="14" fill="#ff0000">██╔═████╗╚██╗██╔╝     ██║██╔═══██╗████╗  ██║██╔══██╗██╔════╝</text>
-<text x="10" y="61" font-family="monospace" font-size="14" fill="#ff0000">██║██╔██║ ╚███╔╝      ██║██║   ██║██╔██╗ ██║███████║███████╗</text>
-<text x="10" y="79" font-family="monospace" font-size="14" fill="#ff0000">████╔╝██║ ██╔██╗ ██   ██║██║   ██║██║╚██╗██║██╔══██║╚════██║</text>
-<text x="10" y="97" font-family="monospace" font-size="14" fill="#ff0000">╚██████╔╝██╔╝ ██╗╚█████╔╝╚██████╔╝██║ ╚████║██║  ██║███████║</text>
-<text x="10" y="115" font-family="monospace" font-size="14" fill="#ff0000"> ╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160">
+<rect width="600" height="160" fill="#0d1117"/>
+<text x="10" y="25" font-family="monospace" font-size="13" fill="#ff0000">                _   _____      _                      </text>
+<text x="10" y="43" font-family="monospace" font-size="13" fill="#ff0000">               | | |  _  |    (_)                     </text>
+<text x="10" y="61" font-family="monospace" font-size="13" fill="#ff0000"> _ __ ___   ___|_|_| |/' |_  ___  ___  _ __   __ _ ___ </text>
+<text x="10" y="79" font-family="monospace" font-size="13" fill="#ff0000">| '__/ _ \ / _ \| __|  /| \ \/ / |/ _ \| '_ \ / _` / __|</text>
+<text x="10" y="97" font-family="monospace" font-size="13" fill="#ff0000">| | | (_) | (_) | |_\ |_/ />  <| | (_) | | | | (_| \__ \</text>
+<text x="10" y="115" font-family="monospace" font-size="13" fill="#ff0000">|_|  \___/ \___/ \__|\___//_/\_\ |\___/|_| |_|\__,_|___/</text>
+<text x="10" y="133" font-family="monospace" font-size="13" fill="#ff0000">                              _/ |                     </text>
+<text x="10" y="151" font-family="monospace" font-size="13" fill="#ff0000">                             |__/                     </text>
 </svg>
