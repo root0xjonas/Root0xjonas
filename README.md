@@ -46,8 +46,6 @@
 - ✅ Cisco — Fundamentos do Python
 - ✅ Cisco — Fundamentos do Hardware
 - ✅ Bradesco — Introdução à Segurança Cibernética
-- 🔄 Fortinet NSE Academy — em andamento
-
 ---
 
 ```bash
